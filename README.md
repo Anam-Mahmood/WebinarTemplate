@@ -1,6 +1,6 @@
-# <<WORKSHOP TITLE>>
+# <WORKSHOP TITLE>
 
-## <<WORKSHOP RESOURCES>>
+## <WORKSHOP RESOURCES>
 
 - Login/Sign Up for IBM Cloud: <Link>
 
@@ -12,16 +12,16 @@
 
 Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
 
-## <<DEFINE_PROBLEM_AREA>>
+## <DEFINE_PROBLEM_AREA>
 
-## <<ARCHITECTURE>>
+## <ARCHITECTURE>
 
-## <<TUTORIAL>>
+## <TUTORIAL>
 
-## <<SAMPLE OUTPUTS>>
+## <SAMPLE OUTPUTS>
 
-## <<WORKSHOP RESOURCES>>
+## <WORKSHOP RESOURCES>
 
-## <<REFERENCE_LINKS>>
+## <REFERENCE LINKS>
 
-## <<AUTHORS>>
+## <AUTHORS>
