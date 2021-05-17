@@ -22,6 +22,15 @@ Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you 
 
 ## WORKSHOP RESOURCES
 
+- Login/Sign Up for IBM Cloud: <Link>
+
+- Hands-On Guide: <Link>
+
+- Slides: <Link>
+
+- Workshop Replay: <Link>
+
+
 ## REFERENCE LINKS
 
 ## AUTHORS
