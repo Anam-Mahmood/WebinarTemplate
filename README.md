@@ -12,7 +12,7 @@
 
 Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
 
-## DEFINE_PROBLEM_AREA
+## DEFINE PROBLEM AREA
 
 ## ARCHITECTURE
 
