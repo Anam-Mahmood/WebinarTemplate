@@ -16,7 +16,8 @@ Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you 
 
 ## ARCHITECTURE
   
-  Use the architecture on the IBM Developer - else edit it using the patterns
+  Use the architecture on the IBM Developer - else edit it using the patterns 
+  Link for architecture: https://l2fprod.github.io/myarchitecture/ 
 
 ## TUTORIAL - Copied from IBM Developer
 
